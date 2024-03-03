@@ -5,6 +5,8 @@ Need to download data set from Kaggle.
 
 !!The generated responses are solely based on data and are not reflective of personal opinions or endorsements. It is important to note that the content produced is purely data-driven and should not be interpreted as expressing any political or controversial viewpoints. The purpose of this response is to provide information based on the input provided, and any resemblance to personal beliefs or ideologies is entirely coincidental!!
 (This code is for M1, M2 chip user.)
+# GPT-2 Architecture
+![preview](https://www.researchgate.net/publication/373352176/figure/fig1/AS:11431281202501967@1698856108167/GPT-2-model-architecture-The-GPT-2-model-contains-N-Transformer-decoder-blocks-as-shown.ppm)
 # GPT-2 NEWS GENERATOR
 Thanks for nanoGPT, I made this web app for study GPT model. 
 Actually this model cannot make good news yet...I will update it. 
