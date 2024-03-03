@@ -7,7 +7,7 @@ Need to download data set from Kaggle.
 (This code is for M1, M2 chip user.)
 # GPT-2 NEWS GENERATOR
 Thanks for nanoGPT, I made this web app for study GPT model. 
-
+Actually this model cannot make good news yet...I will update it. 
 ### Prepare
 ```
 python prepare.py
