@@ -1,0 +1,4 @@
+train.bin 
+val.bin
+CNN.csv
+ckpt.pt
